@@ -1,0 +1,81 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 08/11/2018 09:13
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon2.eot");
+  src: url("./Flaticon2.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon2.woff") format("woff"),
+       url("./Flaticon2.ttf") format("truetype"),
+       url("./Flaticon2.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon2.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-001-package:before { content: "\f100"; }
+.flaticon-002-delivery:before { content: "\f101"; }
+.flaticon-003-box:before { content: "\f102"; }
+.flaticon-004-trolley:before { content: "\f103"; }
+.flaticon-005-truck:before { content: "\f104"; }
+.flaticon-006-delivery-1:before { content: "\f105"; }
+.flaticon-007-broken-glass:before { content: "\f106"; }
+.flaticon-008-ecommerce:before { content: "\f107"; }
+.flaticon-009-checklist:before { content: "\f108"; }
+.flaticon-010-package-1:before { content: "\f109"; }
+.flaticon-011-payment-method:before { content: "\f10a"; }
+.flaticon-012-placeholder:before { content: "\f10b"; }
+.flaticon-013-conveyor:before { content: "\f10c"; }
+.flaticon-014-conveyor-1:before { content: "\f10d"; }
+.flaticon-015-search:before { content: "\f10e"; }
+.flaticon-016-box-1:before { content: "\f10f"; }
+.flaticon-017-delivery-truck:before { content: "\f110"; }
+.flaticon-018-pallet:before { content: "\f111"; }
+.flaticon-019-crane:before { content: "\f112"; }
+.flaticon-020-package-2:before { content: "\f113"; }
+.flaticon-021-delivery-2:before { content: "\f114"; }
+.flaticon-022-smartphone:before { content: "\f115"; }
+.flaticon-023-warehouse:before { content: "\f116"; }
+.flaticon-024-checklist-1:before { content: "\f117"; }
+.flaticon-025-umbrella:before { content: "\f118"; }
+.flaticon-026-delivery-3:before { content: "\f119"; }
+.flaticon-027-forklift:before { content: "\f11a"; }
+.flaticon-028-trolley-1:before { content: "\f11b"; }
+.flaticon-029-payment-method-1:before { content: "\f11c"; }
+.flaticon-030-search-1:before { content: "\f11d"; }
+.flaticon-031-global:before { content: "\f11e"; }
+.flaticon-032-scale:before { content: "\f11f"; }
+.flaticon-033-factory:before { content: "\f120"; }
+.flaticon-034-box-2:before { content: "\f121"; }
+.flaticon-035-package-3:before { content: "\f122"; }
+.flaticon-036-calendar:before { content: "\f123"; }
+.flaticon-037-package-4:before { content: "\f124"; }
+.flaticon-038-container:before { content: "\f125"; }
+.flaticon-039-delivery-4:before { content: "\f126"; }
+.flaticon-040-ecommerce-1:before { content: "\f127"; }
+.flaticon-041-package-5:before { content: "\f128"; }
+.flaticon-042-barcode:before { content: "\f129"; }
+.flaticon-043-trolley-2:before { content: "\f12a"; }
+.flaticon-044-package-6:before { content: "\f12b"; }
+.flaticon-045-box-3:before { content: "\f12c"; }
+.flaticon-046-package-7:before { content: "\f12d"; }
+.flaticon-047-calculator:before { content: "\f12e"; }
+.flaticon-048-forklift-1:before { content: "\f12f"; }
+.flaticon-049-package-8:before { content: "\f130"; }
+.flaticon-050-logistics:before { content: "\f131"; }
