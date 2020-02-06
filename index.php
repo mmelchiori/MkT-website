@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="it-it">
 	<head>
-		<title>MkT communication - eb agency San Martino Buon Albergo</title>
+		<title>MkT communication - web agency San Martino Buon Albergo</title>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="shortcut icon" href="images/favicons/favicon-120.png">
@@ -300,7 +300,7 @@ MkT Communication: Marketing Made Simple</p>
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4">
-							<h2><span class="text-primary">software</span> che utilizziamo</h2>
+							<h2>i nostri <span class="text-primary">partner</span></h2>
 							<p>Fusce vulputate eleifend sapien bulum purus quam, scelerisque ut, mollis vulputate felis eros.</p>
 						</div>
 						<div class="col-md-8">
