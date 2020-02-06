@@ -296,12 +296,12 @@ MkT Communication: Marketing Made Simple</p>
 					</div>
 				</div>
 			</section>
-			<section class="section section_fullwidth section_color_gray">
+			<section class="section section_fullwidth section_color_primary">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4">
-							<h2>i nostri <span class="text-primary">partner</span></h2>
-							<p>Fusce vulputate eleifend sapien bulum purus quam, scelerisque ut, mollis vulputate felis eros.</p>
+							<br></br>
+							<h2>i nostri <span class="color_grey">partner</span></h2>
 						</div>
 						<div class="col-md-8">
 							<div class="row logos-wrapper logos-wrapper_hover-style2">
